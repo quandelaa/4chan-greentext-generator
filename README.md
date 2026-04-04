@@ -18,7 +18,7 @@ Generates a 4chan-style greentext image from a story you write.
 
 ## Example Output
 
-![image][greentext.png]
+<img width="594" height="676" alt="greentext" src="https://github.com/user-attachments/assets/064ec09e-248f-4531-b16b-13e6a63fa42b" />
 
 ## Notes
 
