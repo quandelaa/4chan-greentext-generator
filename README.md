@@ -1,5 +1,10 @@
 # Greentext Generator
 
+This project started when I wanted to help my friend start a YT Shorts channel about greentext stories.
+Spent about 3 hours on this idk.
+
+---
+
 Generates a 4chan-style greentext image from a story you write.
 
 ## How It Works
