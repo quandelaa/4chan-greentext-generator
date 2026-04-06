@@ -7,12 +7,12 @@ Spent about 3 hours on this idk.
 
 Generates a 4chan-style greentext image from a story you write.
 
-## How It Works
+## Process
 
-1. Paste your story into `story.txt` (one line per >line)
+1. Paste your story into `story.txt`
 2. Run `python main.py`
 3. Type your output filename (ex: `output.png`)
-4. A random image from `assets/` gets picked and placed
+4. A random image from `assets/` gets picked and placed onto the resulting greentext image
 5. Done
 
 ## Requirements
@@ -29,9 +29,9 @@ Generates a 4chan-style greentext image from a story you write.
 
 story.txt and the assets/ folder are not included, so make one before running.
 
-You may modify `assets/` as you will.
+You may modify `assets/` to add or remove images.
 
 ---
 
-NOT vibecoded.
+Not vibecoded.
 Authored 100% by quandelaa
