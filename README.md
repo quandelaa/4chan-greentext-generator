@@ -1,7 +1,6 @@
 # Greentext Generator
 
-This project started when I wanted to help my friend start a YT Shorts channel about greentext stories.
-Spent about 3 hours on this idk.
+This project started when I wanted to help my friend start a YT Shorts channel about greentext stories, and now I decided to publicise it for no particular reason.
 
 ---
 
@@ -10,7 +9,7 @@ Generates a 4chan-style greentext image from a story you write.
 ## Process
 
 1. Paste your story into `story.txt`
-2. Run `python main.py`
+2. Run `python greentext_generator.py`
 3. Type your output filename (ex: `output.png`)
 4. A random image from `assets/` gets picked and placed onto the resulting greentext image
 5. Done
@@ -33,5 +32,4 @@ You may modify `assets/` to add or remove images.
 
 ---
 
-Not vibecoded.
 Authored 100% by quandelaa
