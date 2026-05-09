@@ -1,6 +1,6 @@
 # Greentext Generator
 
-This project started when I wanted to help my friend start a YT Shorts channel about greentext stories, and now I decided to publicise it for no particular reason.
+This project started when I wanted to help my friend start a YT Shorts channel about greentext stories, and now I've decided to publicise it for no particular reason.
 
 ---
 
