@@ -1,10 +1,10 @@
 # Greentext Generator
 
-This project started when I wanted to help my friend start a YT Shorts channel about greentext stories, and now I decided to publicise it for no particular reason.
+This project started when I wanted to help a friend start a YT Shorts channel about greentext stories and I made this to fasten up the process of getting the greentext images, and now I've decided to open source it for others to use.
 
 ---
 
-Generates a 4chan-style greentext image from a story you write.
+Generates a 4chan greentext image from a story you write.
 
 ## Process
 
@@ -17,8 +17,8 @@ Generates a 4chan-style greentext image from a story you write.
 ## Requirements
 
 - Pillow library
-- arial.ttf and arialbd.ttf in the same folder as the script
-- An `assets/` folder with your images
+- arial.ttf and arialbd.ttf in the same folder as the script (often not needed because the fonts are probably already in your system)
+- An `assets/` folder with images
 
 ## Example Output
 
