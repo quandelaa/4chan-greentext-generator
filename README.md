@@ -1,6 +1,6 @@
 # Greentext Generator
 
-This project started when I wanted to help a friend start a YT Shorts channel about greentext stories and I made this to fasten up the process of getting the greentext images, and now I've decided to open source it for others to use.
+This project started when I wanted to help a friend start a YT Shorts channel about greentext stories and I made this to fasten up the process of getting the greentext images, and now it's become open source.
 
 ---
 
