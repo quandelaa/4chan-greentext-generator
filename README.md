@@ -1,18 +1,18 @@
-# Greentext Generator
-
-This project started when I wanted to help a friend start a YT Shorts channel about greentext stories and I made this to fasten up the process of getting the greentext images, and now it's become open source.
-
----
+# 4chan Greentext Generator
 
 Generates a 4chan greentext image from a story you write.
 
-## Process
+## Installation
 
-1. Paste your story into `story.txt`
-2. Run `python greentext_generator.py`
-3. Type your output filename (ex: `output.png`)
-4. A random image from `assets/` gets picked and placed onto the resulting greentext image
-5. Done
+1. Clone the repository and `cd` into it:
+```bash
+git clone https://github.com/quandelaa/4chan-greentext-generator.git
+cd chan-greentext-generator/
+```
+2. Run the program:
+```bash
+python src/greentext_generator.py
+```
 
 ## Requirements
 
@@ -26,10 +26,9 @@ Generates a 4chan greentext image from a story you write.
 
 ## Notes
 
-story.txt and the assets/ folder are not included, so make one before running.
-
-You may modify `assets/` to add or remove images.
+`story.txt` and the `assets/` folder are not included, so make one before running.
 
 ---
 
-Authored 100% by quandelaa
+- Made by quandela
+- `February or March 2026`
